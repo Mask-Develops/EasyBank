@@ -1,0 +1,2 @@
+# EasyBank
+Another Landing Page
